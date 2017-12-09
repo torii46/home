@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home</title>
-    <link>http://github.com/torii46.github.io/home/</link>
+    <link>http://torii46.github.io/home/</link>
     <description>Recent content on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://github.com/torii46.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://torii46.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
