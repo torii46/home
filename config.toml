@@ -1,0 +1,5 @@
+theme = "cocoa"
+baseURL = "http://torii46.github.io/home/"
+languageCode = "en-us"
+title = "Home"
+canonifyurls = true
